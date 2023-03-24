@@ -3,6 +3,6 @@ function Myfun(){
 
     setTimeout(()=>{
         console.log("This will print after milli second")
-    },1000)
+    },100)
 }
 Myfun();
